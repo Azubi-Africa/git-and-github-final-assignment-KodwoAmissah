@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -     Mortgage calculator        |  -    Calculates the Mortgage and amount to be paid         | https://github.com/KodwoAmissah/mortgage     |
+| 2 |  -      Tip calculator       |  -    Calculates the tip based on the amount on food         | https://github.com/KodwoAmissah/Tip-calculator    |
+| 3 |  -      Password Genertaor       |  -  Generates a passwords based on the number of symbols and letters entered           | https://github.com/KodwoAmissah/Generating-Passwords     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
